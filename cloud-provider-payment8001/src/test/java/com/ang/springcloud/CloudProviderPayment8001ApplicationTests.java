@@ -1,4 +1,4 @@
-package com.ang.springcloud.cloudproviderpayment8001;
+package com.ang.springcloud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

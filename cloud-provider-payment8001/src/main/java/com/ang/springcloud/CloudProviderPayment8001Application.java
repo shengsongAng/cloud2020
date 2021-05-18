@@ -1,4 +1,4 @@
-package com.ang.springcloud.cloudproviderpayment8001;
+package com.ang.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
